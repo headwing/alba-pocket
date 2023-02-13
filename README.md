@@ -15,7 +15,7 @@
 | FE·ReactJS | 오수민 | 🔗 [GitHub::soomin-world](https://github.com/soomin-world) | ENTP |
 | 부리더·BE·Spring | 최진우 | 🔗 [GitHub::woooo96](https://github.com/woooo96) | ISFJ |
 | BE·Spring | 최재하 | 🔗 [GitHub::wogk9854](https://github.com/wogk9854) | INFP |
-| BE·Spring | 권성현 | 🔗 [GitHub::kwon-sunghyun](https://github.com/kwon-sunghyun) | INFJ |
+| BE·Spring | 권성현 | 🔗 [GitHub::kwon-sunghyun](https://github.com/kwon-sunghyun) | ENFJ |
 | UX/UI | 남다정 |  | ENFP |
 
 -----
