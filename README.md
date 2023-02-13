@@ -4,22 +4,27 @@
 
 ## 나만의 알바 일지와 알바생 커뮤니티
 
-<a href="https://www.albapocket.com/">🔗알바포켓 서비스이용링크🔗</a>
-
 ## 📆 개발 기간  
 2022년 12월 30일 ~ 2023년 02월 10일   
 <p>
 
-## 👥 팀 소개
-#### `Frontend`
- <a href="https://github.com/headwing" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=최유정 &color=61dafb&style=for-the-badge&>"/></a>
- <a href="https://github.com/soomin-world" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=오수민 &color=61dafb&style=for-the-badge&>"/></a>
+## 🌏 맴버소개
+| Position | Name | Blog | MBTI |
+| ----- | ----- | ----- | ----- |
+| 리더·FE·ReactJS | 최유정 | 🔗 [GitHub::headwing](https://github.com/headwing) | ISTJ |
+| FE·ReactJS | 오수민 | 🔗 [GitHub::soomin-world](https://github.com/soomin-world) | ENTP |
+| 부리더·BE·Spring | 최진우 | 🔗 [GitHub::woooo96](https://github.com/woooo96) | ISFJ |
+| BE·Spring | 최재하 | 🔗 [GitHub::wogk9854](https://github.com/wogk9854) | INFP |
+| BE·Spring | 권성현 | 🔗 [GitHub::kwon-sunghyun](https://github.com/kwon-sunghyun) | INFJ |
+| UX/UI | 남다정 |  | ENFP |
 
+-----
 
-#### `Backend`
-<a href="https://github.com/woooo96" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=최진우 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/wogk9854" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=최재하 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/kwon-sunghyun" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=권성현 &color=08CE5D&style=for-the-badge&>"/></a>
+## ❗️서비스 정보 
+- 알바급여입력, 월급계산, 월급날 디데이 계산, 근무일수 및 급여 통계 기능 제공 서비스
+- 알바생들을 위한 정보공유, 대타구하기등을 위한 커뮤니티및, 1:1채팅 기능 제공
+
+<a href="https://www.albapocket.com/"> > 🔗알바포켓 서비스 바로가기🔗</a>
 
 
 ### 서비스 배경
@@ -48,3 +53,34 @@
 
 - 본인의 알바 시간을 정리해 기록 하고싶은 알바생
 - 알바생들끼리의 커뮤니티를 이용하고 싶은 알바생
+
+
+## 주요 기능
+
+-------
+
+## 기술정보
+###Front-End
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=black">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+</p>
+
+
+### Back-end
+<p>
+</p>
+
+----------
+
+## 서비스 아키텍쳐
+
+---------
+
