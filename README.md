@@ -1,20 +1,20 @@
-# Alba Poket Project!!!!!!!!!!!
+# 나만의 알바 일지와 알바생 커뮤니티 **Alba-Pocket**
 
 ![image](https://user-images.githubusercontent.com/117805482/217720232-1199e879-590e-44ce-8074-f77ba68addf0.png)
 
-## 나만의 알바 일지와 알바생 커뮤니티
+
 
 ## 📆 개발 기간  
 2022년 12월 30일 ~ 2023년 02월 10일   
 <p>
 
-## 🌏 맴버소개
+## 👨‍👦‍👦 맴버소개
 | Position | Name | Blog | MBTI |
 | ----- | ----- | ----- | ----- |
 | 리더·FE·ReactJS | 최유정 | 🔗 [GitHub::headwing](https://github.com/headwing) | ISTJ |
 | FE·ReactJS | 오수민 | 🔗 [GitHub::soomin-world](https://github.com/soomin-world) | ENTP |
 | 부리더·BE·Spring | 최진우 | 🔗 [GitHub::woooo96](https://github.com/woooo96) | ISFJ |
-| BE·Spring | 최재하 | 🔗 [GitHub::wogk9854](https://github.com/wogk9854) | INFP |
+| BE·Spring | 최재하 | 🔗 [GitHub::wogk9854](https://github.com/wogk9854) | ISFP |
 | BE·Spring | 권성현 | 🔗 [GitHub::kwon-sunghyun](https://github.com/kwon-sunghyun) | ENFJ |
 | UX/UI | 남다정 |  | ENFP |
 
