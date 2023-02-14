@@ -81,9 +81,9 @@
   ## 👨‍👦‍👦 맴버소개
 | Position | Name | Blog | MBTI |
 | ----- | ----- | ----- | ----- |
-| 리더·FE·ReactJS | 최유정 | 🔗 [GitHub::headwing](https://github.com/headwing) | ISTJ |
+| 🔰 FE·ReactJS | 최유정 | 🔗 [GitHub::headwing](https://github.com/headwing) | ISTJ |
 | FE·ReactJS | 오수민 | 🔗 [GitHub::soomin-world](https://github.com/soomin-world) | ENTP |
-| 부리더·BE·Spring | 최진우 | 🔗 [GitHub::woooo96](https://github.com/woooo96) | ISFJ |
+| 🔰 BE·Spring | 최진우 | 🔗 [GitHub::woooo96](https://github.com/woooo96) | ISFJ |
 | BE·Spring | 최재하 | 🔗 [GitHub::wogk9854](https://github.com/wogk9854) | ISFP |
 | BE·Spring | 권성현 | 🔗 [GitHub::kwon-sunghyun](https://github.com/kwon-sunghyun) | ENFJ |
 | UX/UI | 남다정 |  | ENFP |
