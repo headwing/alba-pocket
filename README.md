@@ -75,7 +75,15 @@
 | 기술 | 사용 이유 |
 | ----- | ----- |
 | Typescript | 코드를 작성하는 중에 에러를 발견할 수 있고 에러에 대한 대응을 빠르게 해주어 개발자의 실수를 줄여줄 수 있다는 점에 도입하기로 결정 |
-
+| react-query | 작성 예정 |
+| stomp, sockjs | 작성 예정 |
+| styled-components | 작성 예정 |
+| axios(instance) | - API를 연동하기 위해서 fetch나 axios 등으로 활용할 수 있는데 axios를 사용하게 된 이유는 자동으로 JSON 데이터 형식으로 변환이 가능하고 XSRF의 보호를 받는다는 점에서 fetch대신 axios를 선택함
+- 또한 data가 object 형식이 포함되고, 사용하는 법도 편리하여 사용하게 됨
+- axios 사용을 할 때마다 URL과 token을 중복사용하게 되어 인스턴스화 시켜서 사용하는 것으로 수정함 |
+| date-fns | 작성 예정 |
+| apexchart | 작성 예정 |
+| vercel | 작성 예정 |
 
 ## 🌱 기능
 ## 🌱 트러블 슈팅
