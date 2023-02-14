@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
@@ -61,6 +60,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </p>
 
 
@@ -73,7 +73,13 @@
 ## ❗️ 서비스 아키텍쳐
 ![Untitled](https://user-images.githubusercontent.com/109337855/218501119-54a9cd29-db0e-4f13-bec0-7daa68f0c034.png)
 ---------
+## 🌱 기술적 의사결정
+## 🌱 기능
+## 트러블 슈팅
+## 페이지별 기능 구현
 
+
+----------
   ## 👨‍👦‍👦 맴버소개
 | Position | Name | Blog | MBTI |
 | ----- | ----- | ----- | ----- |
