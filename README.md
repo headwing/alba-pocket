@@ -93,7 +93,7 @@
 
 ## 🌱 기능
 - 월급날 D-day
-<a href="https://github.com/team3-realproject/frontend/wiki/%EC%BA%98%EB%A6%B0%EB%8D%94">- 캘린더<a/>
+<a href="https://github.com/team3-realproject/frontend/wiki/%EC%BA%98%EB%A6%B0%EB%8D%94">📌 캘린더<a/><br/>
 - 게시물 검색
 - 무한 스크롤
 - 1:1 채팅
