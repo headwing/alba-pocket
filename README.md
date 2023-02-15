@@ -100,9 +100,9 @@
 <a href="https://github.com/team3-realproject/frontend/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%95%8C%EB%A6%BC">📌 실시간 알림<a/><br/>
 
 ## 🌱 트러블 슈팅
-- 패키지 충돌 문제
-- Stomp 버전 문제
-- 게시물 사진 수정
+<a href="https://github.com/team3-realproject/frontend/wiki/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%B6%A9%EB%8F%8C-%EB%AC%B8%EC%A0%9C">📌 패키지 충돌 문제<a/><br/>
+<a href="https://github.com/team3-realproject/frontend/wiki/Stomp-%EB%B2%84%EC%A0%84-%EB%AC%B8%EC%A0%9C"> 📌 Stomp 버전 문제<a/><br/>
+<a href="https://github.com/team3-realproject/frontend/wiki/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%82%AC%EC%A7%84-%EC%88%98%EC%A0%95">📌 게시물 사진 수정<a/><br/>
 
 ## 🌱 페이지별 기능 구현
 | 페이지 | 기능 |
