@@ -116,7 +116,7 @@
 | 마이페이지 | - 내활동을 통해 내가 쓴 글, 좋아요 누른 글, 작성 댓글 확인 <br/> - 작성 댓글 선택 및 페이지 전체 삭제 <br/> - 프로필 수정 <br/> - 로그아웃 |
 
 ----------
-  ## 👨‍👦‍👦 맴버소개
+  ## 👨‍👦‍👦 맴버 소개
 | Position | Name | Blog | MBTI |
 | ----- | ----- | ----- | ----- |
 | 🔰 FE·ReactJS | 최유정 | 🔗 [GitHub::headwing](https://github.com/headwing) | ISTJ |
