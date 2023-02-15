@@ -92,11 +92,11 @@
 | react-hook-form | 회원가입 및 로그인 시 발생하는 onChange와 useState의 잦은 사용이 비효율적이어서 선택. 또한 비밀번호 일치 여부와 중복 체크의 경우 보다 편리하게 기능 구현이 가능하여 선택 |
 
 ## 🌱 기능
-📌 월급날 D-day<br/>
+<a href="https://github.com/team3-realproject/frontend/wiki/%EC%9B%94%EA%B8%89%EB%82%A0-Dday">📌 월급날 D-day<br/>
 <a href="https://github.com/team3-realproject/frontend/wiki/%EC%BA%98%EB%A6%B0%EB%8D%94">📌 캘린더<a/><br/>
 <a href="https://github.com/team3-realproject/frontend/wiki/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EA%B2%80%EC%83%89">📌 게시물 검색<a/><br/>
-📌 무한 스크롤<br/>
-📌 1:1 채팅<br/>
+<a href="https://github.com/team3-realproject/frontend/wiki/%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4">📌 무한 스크롤<br/>
+<a href="https://github.com/team3-realproject/frontend/wiki/1:1-%EC%B1%84%ED%8C%85">📌 1:1 채팅<br/>
 <a href="https://github.com/team3-realproject/frontend/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%95%8C%EB%A6%BC">📌 실시간 알림<a/><br/>
 
 ## 🌱 트러블 슈팅
