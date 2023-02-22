@@ -103,7 +103,7 @@
 <a href="https://github.com/team3-realproject/frontend/wiki/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%B6%A9%EB%8F%8C-%EB%AC%B8%EC%A0%9C">📌 패키지 충돌 문제<a/><br/>
 <a href="https://github.com/team3-realproject/frontend/wiki/Stomp-%EB%B2%84%EC%A0%84-%EB%AC%B8%EC%A0%9C"> 📌 Stomp 버전 문제<a/><br/>
 <a href="https://github.com/team3-realproject/frontend/wiki/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%82%AC%EC%A7%84-%EC%88%98%EC%A0%95">📌 게시물 사진 수정<a/><br/>
-
+<a href="https://github.com/team3-realproject/frontend/wiki/1:1%EC%B1%84%ED%8C%85%EC%8B%9C-%ED%83%80%EC%9D%B4%ED%95%91%EB%A7%88%EB%8B%A4-%EB%A6%AC%EB%A0%8C%EB%8D%94%EB%A7%81">📌 1:1채팅 리렌더링 
 ## 🌱 페이지별 기능 구현
 | 페이지 | 기능 |
 | ----- | ----- |
