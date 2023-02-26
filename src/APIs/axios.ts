@@ -14,6 +14,7 @@ export const instance = axios.create({
     // "content-type": "application/json;charset=UTF-8",
     //accept: "application/json,",
     "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "no-cache",
     //"Content-type": "application/json",
   },
 });
@@ -23,6 +24,7 @@ export const postInstance = axios.create({
   headers: {
     "Access-Control-Allow-Origin": "*",
     "Content-type": "multipart/form-data",
+    "Cache-Control": "no-cache",
     //"Content-type": "application/json",
   },
 });
@@ -32,6 +34,7 @@ export const searchInstance = axios.create({
   headers: {
     "Access-Control-Allow-Origin": "*",
     "content-type": "text/html",
+    "Cache-Control": "no-cache",
   },
 });
 // -----------------토큰 -------------------
