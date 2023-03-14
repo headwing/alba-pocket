@@ -93,7 +93,8 @@ const Cells = styled.div<{ color: string; backgroundColor: string }>`
 `;
 
 const CellsNum = styled.span<{ color: string }>`
-  margin-bottom: 2px;
+  margin-bottom: 6px;
+  margin-right: 1px;
   color: ${(props) => props.color};
 `;
 
