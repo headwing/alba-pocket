@@ -94,7 +94,7 @@ const MyComment = () => {
           }}
         >
           <span>삭제</span>
-          <img src="/image/iconDelete.png" alt="" />
+          <img src="/image/iconCommentBin.svg" alt="" />
         </button>
       </CommentDelete>
 
