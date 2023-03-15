@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React, { Suspense, lazy } from "react";
 
-const Footer = lazy(() => import("../components/footer/Footer"));
-const Loading = lazy(() => import("../components/Loading/Loading"));
-const MyAlert = lazy(() => import("../components/alert/MyAlert"));
-const Splash = lazy(() => import("../pages/Splash"));
+import Footer from "../components/footer/Footer";
+import Loading from "../components/Loading/Loading";
+import MyAlert from "../components/alert/MyAlert";
+import Splash from "../pages/Splash";
 
 const Main = lazy(() => import("../pages/Main"));
 const Register = lazy(() => import("../pages/Register"));
