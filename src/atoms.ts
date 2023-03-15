@@ -1,7 +1,5 @@
 import { atom } from "recoil";
 
-const today = new Date();
-
 export const moreBtnsAtom = atom({
   key: "isMoreBtnsOpen",
   default: false,
