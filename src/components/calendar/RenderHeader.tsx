@@ -4,7 +4,7 @@ import { IHeaderProps } from "../../types/calendar";
 import styled from "styled-components";
 import { forwardRef, useState } from "react";
 import { useMatch, useNavigate } from "react-router-dom";
-import ReactDatePicker from "react-datepicker";
+import DatePicker from "react-datepicker";
 import { ko } from "date-fns/esm/locale";
 
 const RenderHeader = ({
@@ -31,7 +31,7 @@ const RenderHeader = ({
     <Header>
       {calendarMatch || calTodoMatch || calBtnMatch ? (
         <SelectMonth>
-          <ReactDatePicker
+          <DatePicker
             selected={startDate}
             onChange={(date: Date) => {
               setStartDate(date);

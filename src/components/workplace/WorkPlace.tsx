@@ -1,5 +1,5 @@
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { getWorks } from "../../APIs/workApi";
@@ -9,13 +9,13 @@ import MainHeader from "../header/MainHeader";
 import Work from "./Work";
 
 function WorkPlace() {
-  const [pathName, setPathName] = useState("");
   const navigate = useNavigate();
   const { data } = useQuery(["work"], getWorks);
   const locationNow = useLocation();
-  useEffect(() => {
-    setPathName(locationNow.pathname);
-  }, []);
+
+  const pathName = useMemo(() => {
+    return locationNow.pathname;
+  }, [locationNow.pathname]);
 
   return (
     <>

@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { useState } from "react";
+import { memo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { getNotificationsCnt } from "../../APIs/alertApi";
@@ -135,4 +135,4 @@ const STHeader = styled.div`
   }
 `;
 
-export default MainHeader;
+export default memo(MainHeader);

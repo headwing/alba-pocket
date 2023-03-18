@@ -113,17 +113,6 @@ const Search = () => {
   );
 };
 
-const SearchBar = styled.div`
-  width: 100%;
-  height: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 17px;
-  font-weight: 500;
-  padding: 5%;
-`;
-
 const Header = styled.div`
   display: flex;
   align-items: center;

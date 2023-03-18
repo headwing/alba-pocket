@@ -1,3 +1,4 @@
+import { memo } from "react";
 import styled from "styled-components";
 
 interface IDaysProps {
@@ -47,4 +48,4 @@ const Days = styled.div<{ daysWith: boolean | undefined }>`
   border-top: 1px solid ${(props) => (props.daysWith ? "#D9D9D9" : "null")};
 `;
 
-export default RenderDays;
+export default memo(RenderDays);
