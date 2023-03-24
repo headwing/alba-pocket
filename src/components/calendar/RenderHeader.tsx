@@ -5,6 +5,7 @@ import styled from "styled-components";
 import { forwardRef, useState } from "react";
 import { useMatch, useNavigate } from "react-router-dom";
 import DatePicker from "react-datepicker";
+import "react-datepicker/dist/react-datepicker.css";
 import { ko } from "date-fns/esm/locale";
 
 const RenderHeader = ({
